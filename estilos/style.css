@@ -211,7 +211,7 @@ div.skills-container .info{
   cursor: pointer;
 }
 
-.projeto-container img{
+.projeto-container .foto{
   width: 100%;
   aspect-ratio: 16/9;
   object-fit: cover;
